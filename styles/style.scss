@@ -1,0 +1,10 @@
+$links: hsl(218, 44%, 22%);
+$hover: hsl(220, 15%, 55%);
+
+a{
+    color: $links;
+}
+
+a:hover{
+    color: $hover;
+}
